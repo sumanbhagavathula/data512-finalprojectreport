@@ -82,14 +82,14 @@ The end to end process of this analysis work will broken down into four steps:
 The source code, data (raw and processed) are placed in the following structure:
 
 ### Source
-The source code is located in the [github repo source code file](https://github.com/sumanbhagavathula/data-512-finalprojectreport/blob/master/src/hcds-finalproject.ipynb) and containing documentation and code for all the three steps mentioned above.
+The source code is located in the [github repo source code file](https://github.com/sumanbhagavathula/data512-finalprojectreport/blob/master/src/hcds-finalproject.ipynb) and containing documentation and code for all the three steps mentioned above.
 
 ### Data
-1. [Raw Data](https://github.com/sumanbhagavathula/data-512-finalprojectreport/tree/master/src/) will contain any raw data files. 
+1. [Raw Data](https://github.com/sumanbhagavathula/data512-finalprojectreport/tree/master/src/) will contain any raw data files. 
 
-2. [Processed Data](https://github.com/sumanbhagavathula/data-512-finalprojectreport/tree/master/src/) will be the location for the processed data
+2. [Processed Data](https://github.com/sumanbhagavathula/data512-finalprojectreport/tree/master/src/) will be the location for the processed data
 
-3. [Analysis and Visualization Data](https://github.com/sumanbhagavathula/data-512-finalprojectreport/tree/master/src/) will contain any data transformations that were generated in the analysis phase and copies of any visualizations that may be created as part of this work.
+3. [Analysis and Visualization Data](https://github.com/sumanbhagavathula/data512-finalprojectreport/tree/master/src/) will contain any data transformations that were generated in the analysis phase and copies of any visualizations that may be created as part of this work.
 
 
 # Dependencies
