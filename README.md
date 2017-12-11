@@ -2,8 +2,6 @@
 # Introduction
 This research study is towards fulfillment of the final project requirement for the DATA 512 class of Fall 2017 at the University of Washington. This ReadMe document contains information on the project including details on the research questions, the datasets I have used, the provenance information for these datasets, copyright and licensing information for the code, data and documentation, and also some of the Human Centered Design aspects considered in this study.    
 
-# Introduction
-
 The goal of this work is to study and explore whether or not there is any dip in the number of people in Seattle who commute to work by bike during the colder days in winter as compared to days on which the weather is warmer. The scope of this study is limited to the commuters west of the lake washington as well as the Burke Gilman Trail north of 70th st. 
 
 ## Research Overview
