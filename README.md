@@ -10,6 +10,12 @@ The goal of this work is to study and explore whether or not there is any dip in
 
 To explore whether the colder temperatures affect the number of people commuting by bike in the City of Seattle, we need to know how many people commute by bike in Seattle and also what the temperatures are at that place during the times the bike count measurements are taken. Fortunately, the Seattle Department of Transporation has both of these information for various locations throughout the city and have made these datasets publicly available. The details of these datasets will be presented in the Dataset overview section below. For now, I would like to introduce two location points in the City of Seattle where I wish to explore the bike commuter counts as temperatures change across days of the year. The first reference point is towards the south end of the City of Seattle and is called Mountain to Sound Trail West of I90. This is the point where the I90 touches the city of Seattle. The second reference point is towards the north end of the city of Seattle and is called the Burke Gilman Trail North of 70th ST. 
 
+These reference points on the two trails do not have weather stations on site. Rather, I have been able to find one weather station closest to each spot that can be used for an approximate temperature in these trails since the distance between the bike counter on the trail and the temperature sensor is not far away. Please see annotated maps below for more information. In each of the maps, the trail is indicated by the blue pointer and the weather station is indicated by the blue circle:
+
+https://github.com/sumanbhagavathula/data512-finalprojectreport/blob/master/src/mtstrailwestofi90andclosesttemperaturesensor.JPG
+
+https://github.com/sumanbhagavathula/data512-finalprojectreport/blob/master/src/burkegilmantrailandclosesttemperaturesensor.JPG
+
 ## Research Questions and Hypothesis
 
 With the above background, below were my research questions followed by the hypothesis:
