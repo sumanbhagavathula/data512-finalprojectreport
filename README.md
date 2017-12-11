@@ -12,9 +12,13 @@ To explore whether the colder temperatures affect the number of people commuting
 
 These reference points on the two trails do not have weather stations on site. Rather, I have been able to find one weather station closest to each spot that can be used for an approximate temperature in these trails since the distance between the bike counter on the trail and the temperature sensor is not far away. Please see annotated maps below for more information. In each of the maps, the trail is indicated by the blue pointer and the weather station is indicated by the blue circle:
 
-https://github.com/sumanbhagavathula/data512-finalprojectreport/blob/master/src/mtstrailwestofi90andclosesttemperaturesensor.JPG
+Annotated map for Bike Counter and Nearest temperature sensor for the MTS Trail West of I90:
 
-https://github.com/sumanbhagavathula/data512-finalprojectreport/blob/master/src/burkegilmantrailandclosesttemperaturesensor.JPG
+![alt text](https://github.com/sumanbhagavathula/data512-finalprojectreport/blob/master/src/mtstrailwestofi90andclosesttemperaturesensor.JPG)
+
+Annotated map for Bike Counter and Nearest temperature sensor for the Burke Gilman Trail North of 70th ST:
+
+![alt text](https://github.com/sumanbhagavathula/data512-finalprojectreport/blob/master/src/burkegilmantrailandclosesttemperaturesensor.JPG)
 
 ## Research Questions and Hypothesis
 
